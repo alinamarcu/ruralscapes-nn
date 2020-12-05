@@ -1,2 +1,2 @@
 # ruralscapes-nn
-Training and testing code for pretrained SafeUAVNet accompanying Ruralscapes Dataset and SegProp Code
+Training and testing code for SafeUAVNet accompanying Ruralscapes Dataset and SegProp Code
